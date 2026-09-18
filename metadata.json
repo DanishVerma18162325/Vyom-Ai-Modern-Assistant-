@@ -1,0 +1,7 @@
+{
+  "name": "VYOM",
+  "description": "Ultimate Personal AI Assistant. Your Intelligence. Everywhere. Powered by VYOM Engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
